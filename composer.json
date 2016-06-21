@@ -1,12 +1,12 @@
 {
-  "name": "components/angular.js",
+  "name": "components/angular.js_1.3.x",
   "description": "Shim repository for Angular.js",
   "type": "component",
   "homepage": "http://angularjs.org",
   "license": "MIT",
   "extra": {
     "component": {
-      "name": "angularjs",
+      "name": "angularjs-1.3.x",
       "scripts": [
         "angular.js"
       ],
